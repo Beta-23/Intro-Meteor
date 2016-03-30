@@ -24,3 +24,47 @@ Meteor is a full-stack JavaScript platform for developing **modern web and mobil
  ![alt text](https://github.com/Beta-23/Intro-Meteor/blob/master/img/Meteor_structure.png "Meteor Structure")
 
  In the Meteor platform, Meteor clients talk to Meteor servers over DDP. But the Meteor client doesn't know that it's talking to a Meteor server; it just knows that it's speaking DDP. Likewise, the Meteor server doesn't know that it's talking to a Meteor client.
+
+ ***
+
+##**Why use Meteor?**
+
+###
+
+* RADICALLY LESS CODE
+
+Accomplish in 10 lines what would otherwise take 1000, thanks to a reactive programming model that extends all the way from the database to the user's screen.
+
+* UNIVERSAL JAVASCRIPT
+
+The same code runs from the client to the cloud, from packages to database APIs. The same code runs cross browsers and mobile devices via Meteor's unified Isobuild system.
+
+* MOBILE AND WEB
+
+A great experience both as an installable iOS and Android app, and as a web app that loads on demand.
+
+* FULLY INTEGRATED AND FLEXIBLE
+
+Meteor’s integrated stack means you don’t have to spend time managing and integrating components and code. You can focus on building your app. And with Meteor’s package system, you can plug in thousands of libraries with additional functionality.
+
+* REACTIVE RENDERING
+
+Client GUI components provide the look, feel and response of a thick client app using Meteor's Blaze framework or integrating with AngularJS and ReactJS.
+
+=====
+
+##**Cons of Meteor**
+
+* When you’re building a website not a web application
+
+* Scalability
+
+* Meteor out of the box uses MongoDB, though they are working on official support for other databases
+
+##**Your Choice!**
+
+=====
+
+![alt text](https://github.com/Beta-23/Intro-Meteor/blob/master/img/JS_Framework.png "Catch Your Framework!")
+
+
