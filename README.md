@@ -13,7 +13,7 @@ Meteor is a full-stack JavaScript platform for developing **modern web and mobil
 
  * Meteor allows you to **develop in one language**, JavaScript, in all environments: application server, web browser, and mobile device.
 
- * Meteor uses data on the wire, meaning the server sends data, not HTML, and the client renders it. (Other words: Meteor maintains state via DDP i.e sockets. A simple protocol for fetching structured data from a server, and receiving live updates when that data changes.)
+ * Meteor uses data on the wire, meaning the server sends data, not HTML, and the client renders it. (Other words: Meteor maintains state via DDP i.e sockets. Distributed Data Protocol is a simple protocol for fetching structured data from a server, and receiving live updates when that data changes.)
 
  * Meteor **embraces the ecosystem**, bringing the best parts of the extremely active JavaScript community to you in a careful and considered way.
 
@@ -72,5 +72,7 @@ Client GUI components provide the look, feel and response of a thick client app 
 [Meteor Docs](http://docs.meteor.com/#/full/meteorguide)
 
 [Meteor Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app)
+
+[Meteor Packages](https://atmospherejs.com/)
 
 
