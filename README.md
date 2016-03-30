@@ -69,8 +69,8 @@ Client GUI components provide the look, feel and response of a thick client app 
 
 ##**Resources:**
 
-![Meteor Docs](http://docs.meteor.com/#/full/meteorguide "Meteor Documentation")
+[Meteor Docs](http://docs.meteor.com/#/full/meteorguide)
 
-![Meteor Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app "Meteor Tutorials")
+[Meteor Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app)
 
 
