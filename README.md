@@ -17,4 +17,4 @@ Meteor is a full-stack JavaScript platform for developing modern web and mobile 
 
 ...*Meteor embraces the ecosystem, bringing the best parts of the extremely active JavaScript community to you in a careful and considered way.
 
-Meteor provides full stack reactivity, allowing your UI to seamlessly reflect the true state of the world with minimal development effort.
+...*Meteor provides **full stack reactivity**, allowing your UI to seamlessly reflect the true state of the world with minimal development effort.
