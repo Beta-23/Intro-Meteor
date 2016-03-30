@@ -1,6 +1,6 @@
 #Intro-Meteor
 
-This is an introduction to Meteor for programing beginners.
+This is an introduction to Meteor for programming beginners.
 
 ##Introduction
 
