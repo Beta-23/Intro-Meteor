@@ -61,10 +61,16 @@ Client GUI components provide the look, feel and response of a thick client app 
 
 * Meteor out of the box uses MongoDB, though they are working on official support for other databases
 
-##**Your Choice!**
+##**All Aboard!**
 
 =====
 
 ![alt text](https://github.com/Beta-23/Intro-Meteor/blob/master/img/JS_Framework.png "Catch Your Framework!")
+
+##**Resources:**
+
+![Meteor Docs](http://docs.meteor.com/#/full/meteorguide "Meteor Documentation")
+
+![Meteor Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app "Meteor Tutorials")
 
 
