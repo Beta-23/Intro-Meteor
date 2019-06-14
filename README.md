@@ -1,12 +1,12 @@
-#Intro-Meteor
+# Intro-Meteor
 
 This is an introduction to Meteor for programming beginners.
 
-##Introduction
+## Introduction
 
 ***
 
-##**What is Meteor?**
+## **What is Meteor?**
 
 ###
 Meteor is a full-stack JavaScript platform for developing **modern web and mobile applications**. Meteor includes a key set of technologies for building connected-client reactive applications, a build tool, and a curated set of packages from the Node.js and general JavaScript community.
@@ -27,7 +27,7 @@ Meteor is a full-stack JavaScript platform for developing **modern web and mobil
 
  ***
 
-##**Why use Meteor?**
+## **Why use Meteor?**
 
 ###
 
@@ -53,7 +53,7 @@ Client GUI components provide the look, feel and response of a thick client app 
 
 =====
 
-##**Cons of Meteor**
+## **Cons of Meteor**
 
 * When you’re building a website not a web application
 
@@ -61,13 +61,13 @@ Client GUI components provide the look, feel and response of a thick client app 
 
 * Meteor out of the box uses MongoDB, though they are working on official support for other databases
 
-##**All Aboard!**
+## **All Aboard!**
 
 =====
 
 ![alt text](https://github.com/Beta-23/Intro-Meteor/blob/master/img/JS_Framework.png "Catch Your Framework!")
 
-##**Resources:**
+## **Resources:**
 
 [Meteor Docs](http://docs.meteor.com/#/full/meteorguide)
 
